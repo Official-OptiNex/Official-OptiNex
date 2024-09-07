@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=official-optinex&label=Profile%20views&color=0e75b6&style=flat" alt="official-optinex" /> </p>
 
-- 🔭 I’m currently working on **OptiNex UI**
+- 🔭 I’m currently working on **OptiNex UI Library**
 
 - 🌱 I’m currently learning **☕️ Java**
 
