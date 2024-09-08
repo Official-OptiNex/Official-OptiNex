@@ -1,4 +1,4 @@
-<h1 align="center">Welcome!!! Allow me to introduce myself... My name is: OptiNex</h1>
+<h1 align="center">Welcome!!! Allow me to introduce myself... My name is OptiNex</h1>
 <h3 align="center">18 Year old coder, Started coding roblox scripts 6-7 years go for a game called "Booga Booga", You may have heard of these scripts as the videos reached 90k+ view each lol, script names: "BoogaX, BoogaX v.2, and BoogaX v.3", I have since then deleted the youtube channel "The Real Exploiter" or the name "Spedungis" and have lost BoogaX Original and V.2, BUT I still have the original BoogaX V.3 Place, GUI, and Script in my roblox studio!!!! Oh the memories lol</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=official-optinex&label=Profile%20views&color=0e75b6&style=flat" alt="official-optinex" /> </p>
